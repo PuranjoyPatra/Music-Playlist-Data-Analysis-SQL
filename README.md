@@ -52,24 +52,36 @@ I have applied ***Join***, ***Union***, ***CTE(Common Table Expression)***, ***G
 
 I have shown some of outputs here: 👇 
 
-<p><img src="./images/qs1.png" ></p>
+- Which countries have the most Invoices?
+
+    <p><img src="./images/qs1.png" ></p>
 
 ---
 
-<p><img src="./images/qs1-2.png"></p>
+- What are top 3 values of total invoice?
+
+    <p><img src="./images/qs1-2.png"></p>
 
 ----
 
-<p><img src="./images/qs2-1.png"></p>
+-  Write query to return the email, first name, last name, & Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A.
+
+    <p><img src="./images/qs2-1.png"></p>
 
 ---
 
-<p><img src="./images/qs2-2.png"></p>
+- Write a query that returns the Artist name and total track count of the top 10 rock bands.
+
+    <p><img src="./images/qs2-2.png"></p>
 
 ---
 
-<p><img src="./images/qs3-1.png"></p>
+- Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent.
+
+    <p><img src="./images/qs3-1.png"></p>
 
 ---
 
-<p><img src="./images/qs3-2.png"></p>
+- Write a query that returns each country along with the top Genre. For countries where the maximum number of purchases is shared return all Genres.
+
+    <p><img src="./images/qs3-2.png"></p>
