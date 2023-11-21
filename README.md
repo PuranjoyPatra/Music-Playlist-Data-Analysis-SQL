@@ -2,7 +2,7 @@
 
 ## Project Demo
 
-![Music Playlist analysis demo](./images/music-playlist_analysis-project_demo-by-PuranjoyPatra.gif)
+![Music Store analysis demo](./images/music-store-analysis-project-demo-by-PuranjoyPatra.gif)
 
 ## Schema 
 
@@ -17,11 +17,13 @@
 
 ## SQL Query
 
-There are 3 sql files where all sql queries  are written. look at the below lists:
+There are 3 sql files where all sql queries are written. look at the below lists:
 
 - Query Set 1 [View](Query_SET_1.sql)
 - Query Set 2 [View](Query_SET_2.sql)
 - Query Set 3 [View](Query_SET_3.sql)
+
+Sample Question - [click here](Sample-Questions.pdf) to see the questions. 
 
 
 ## Data Source
